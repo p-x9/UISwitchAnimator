@@ -10,8 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    // Please change below properties
     let fps: Int = 10
     let (width, height) = (48, 36)
+    
     private(set) var data: [[Int]]!
     private(set) var currentFrameIndex = 0
     private(set) var isAnimating = false
