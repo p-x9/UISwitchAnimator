@@ -16,6 +16,7 @@
 		42F255AB2825967400A77106 /* UISwitchAnimatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F255AA2825967400A77106 /* UISwitchAnimatorTests.swift */; };
 		42F255B52825967400A77106 /* UISwitchAnimatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F255B42825967400A77106 /* UISwitchAnimatorUITests.swift */; };
 		42F255B72825967400A77106 /* UISwitchAnimatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F255B62825967400A77106 /* UISwitchAnimatorUITestsLaunchTests.swift */; };
+		42F255C42826953F00A77106 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 42F255C32826953F00A77106 /* data.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		42F255B02825967400A77106 /* UISwitchAnimatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UISwitchAnimatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		42F255B42825967400A77106 /* UISwitchAnimatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISwitchAnimatorUITests.swift; sourceTree = "<group>"; };
 		42F255B62825967400A77106 /* UISwitchAnimatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISwitchAnimatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		42F255C32826953F00A77106 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				42F255952825967100A77106 /* SceneDelegate.swift */,
 				42F255972825967100A77106 /* ViewController.swift */,
 				42F255992825967100A77106 /* Main.storyboard */,
+				42F255C32826953F00A77106 /* data.json */,
 				42F2559C2825967300A77106 /* Assets.xcassets */,
 				42F2559E2825967300A77106 /* LaunchScreen.storyboard */,
 				42F255A12825967300A77106 /* Info.plist */,
@@ -234,6 +237,7 @@
 				42F255A02825967300A77106 /* LaunchScreen.storyboard in Resources */,
 				42F2559D2825967300A77106 /* Assets.xcassets in Resources */,
 				42F2559B2825967100A77106 /* Main.storyboard in Resources */,
+				42F255C42826953F00A77106 /* data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

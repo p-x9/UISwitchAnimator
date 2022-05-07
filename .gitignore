@@ -43,3 +43,6 @@ vendor/bundle
 
 # BuildTools
 BuildTools/.build
+
+#Custom
+UISwitchAnimator/data.json
