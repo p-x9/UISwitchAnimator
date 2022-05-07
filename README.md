@@ -1,7 +1,8 @@
 #  UISwitchAnimator
 
 ## Sample
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_v6e0ATcWUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+tap to open youtube video  
+[![youtube](http://img.youtube.com/vi/_v6e0ATcWUA/0.jpg)](https://www.youtube.com/embed/_v6e0ATcWUA)
 
 ## Installation
 ### required
