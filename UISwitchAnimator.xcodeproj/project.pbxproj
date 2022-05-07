@@ -37,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		42AB33E62826A1110062DCE9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		42F255902825967100A77106 /* UISwitchAnimator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UISwitchAnimator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42F255932825967100A77106 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42F255952825967100A77106 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +82,7 @@
 		42F255872825967100A77106 = {
 			isa = PBXGroup;
 			children = (
+				42AB33E62826A1110062DCE9 /* README.md */,
 				42F255922825967100A77106 /* UISwitchAnimator */,
 				42F255A92825967400A77106 /* UISwitchAnimatorTests */,
 				42F255B32825967400A77106 /* UISwitchAnimatorUITests */,
